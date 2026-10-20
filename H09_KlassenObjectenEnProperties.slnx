@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="B9_1_KlasseMensEersteObject/B9_1_KlasseMensEersteObject.csproj" />
+  <Project Path="B9_2_KlasseAutoMetFullProperties/B9_2_KlasseAutoMetFullProperties.csproj" />
+  <Project Path="B9_3_KlasseRekeningWriteOnlyEnReadOnly/B9_3_KlasseRekeningWriteOnlyEnReadOnly.csproj" />
+  <Project Path="E9_1_KlasseStudentMetAutoPropertiesEnBerekeningen/E9_1_KlasseStudentMetAutoPropertiesEnBerekeningen.csproj" />
+  <Project Path="E9_2_KlasseDateTimeKalender/E9_2_KlasseDateTimeKalender.csproj" />
+  <Project Path="E9_3_KlasseTemperatuurmeter/E9_3_KlasseTemperatuurmeter.csproj" />
+  <Project Path="P9_1_KlasseProductVolledigOOPSysteem/P9_1_KlasseProductVolledigOOPSysteem.csproj" />
+  <Project Path="P9_2_KlasseAutoParkArraysVanObjectenDateTime/P9_2_KlasseAutoParkArraysVanObjectenDateTime.csproj" />
+</Solution>
